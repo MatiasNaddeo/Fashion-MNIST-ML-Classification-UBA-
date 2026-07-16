@@ -1,6 +1,9 @@
-# Modelos de Clasificación
+# Acerca del trabajo
 
 En este trabajo buscamos comprender mejor los algoritmos de clasficación Knn y Árobles de decisión. Para esto trabajamos con Fashion-MNIST, un dataset con imagenes 28x28 de prendas clasificadas según 10 clases. 
+
+Trabajo académico realizado durante 2025 para la materia Laboratorio de datos de la Licenciatura en Ciencia de Datos de la Universidad de Buenos Aires (UBA). Integrantes del grupo: Guillermo de La Vega, Francisco Anllo y Matías Naddeo
+
 
 ---
 
