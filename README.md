@@ -26,5 +26,5 @@ from sklearn.tree import DecisionTreeClassifier
 3. En la terminal debes correr:
 
 ```bash
-python TP-Grupo_07.py
+python main.py
 ```
