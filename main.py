@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#INTEGRANTES: Guillermo de la Vega, Matias Naddeo y Francisco Anllo
 #En este archivo se encuentran las funciones utilizadas para el analisis exploratorio, los graficos necesarios para estudiar los datos y 
 # los modelos de clasificacion tanto el de KNN como el de Arboles de Decision.
 
